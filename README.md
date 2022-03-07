@@ -24,6 +24,7 @@ Wich Twitcher are you looking for?
 
 User will insert text and click the button Search and your application will search twitch information that contain submitted string. 
 Information that would be good to see in the results provided is the basic twitch profile info and if a certain profile is on the top positions in the top live channels on twitchtracker or not.
+
 *Note*: it is only an example, go wilder than that :)
 
 ## Challenge 4:
