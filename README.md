@@ -9,7 +9,7 @@ Read through the rest of the assignment, decide which technologies to use and ex
 Create a deployable "Hello World" Server exposing simple REST "Hello World" API. It is going to be a base for your application for this assignment.
 
 ## Challenge 3:
-Pick one of the available online API's such as Twitch(https://dev.twitch.tv/docs/api/), and TwitchTracker.com (twitchtracker.com) create and implement a flow involving that API and user of your application. 
+Pick the available online API's such as Twitch(https://dev.twitch.tv/docs/api/) and TwitchTracker.com (twitchtracker.com) create and implement a flow involving that API and user of your application. 
 
 For example, your application might have following UI:
 ```
